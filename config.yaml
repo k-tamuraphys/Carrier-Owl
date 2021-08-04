@@ -15,4 +15,4 @@ keywords:
         machine learning: 1
 
 # 通知の閾値
-score_threshold: 10
+score_threshold: 5
