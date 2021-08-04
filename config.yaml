@@ -1,11 +1,18 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cond-mat.stat-mech OR cat:cond-mat.str-el OR cat:cond-mat.quant-gas OR cat:cond-mat.other OR cat:quant-ph'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        Hubbard model: 5
+        quantum dynamics: 3
+        topological phase: 2
+        entanglement: 2
+        quantum scar: 2
+        quantum information: 3
+        quantum computer: 3
+        quantum computing: 3
+        quantum algorithm: 2
+        machine learning: 1
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 10
