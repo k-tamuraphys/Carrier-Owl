@@ -5,13 +5,13 @@ subject: 'cat:cond-mat.stat-mech OR cat:cond-mat.str-el OR cat:cond-mat.quant-ga
 keywords:
         Hubbard model: 5
         quantum dynamics: 3
-        topological phase: 2
-        entanglement: 2
-        quantum scar: 2
+        topological phase: 4
+        entanglement: 3
+        quantum scar: 3
         quantum information: 3
-        quantum computer: 3
-        quantum computing: 3
-        quantum algorithm: 2
+        quantum computer: 4
+        quantum computing: 4
+        quantum algorithm: 3
         machine learning: 1
 
 # 通知の閾値
